@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 1 |
+| 1 | 1 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (1)
 
 ---
 
@@ -20,8 +20,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 492A | [Vanya and Cubes](https://codeforces.com/contest/492/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/492/A%20-%20Vanya%20and%20Cubes/solution.py) |
-| 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/705/A%20-%20Hulk/solution.py) |
+| 540A | [Combination Lock](https://codeforces.com/contest/540/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/540/A%20-%20Combination%20Lock/solution.py) |
 
 ---
 
