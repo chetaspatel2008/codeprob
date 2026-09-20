@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
+- [strings](#strings) (1)
 
 ---
 
@@ -20,7 +21,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/520/A%20-%20Pangram/solution.py) |
 | 540A | [Combination Lock](https://codeforces.com/contest/540/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/540/A%20-%20Combination%20Lock/solution.py) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/520/A%20-%20Pangram/solution.py) |
 
 ---
 
