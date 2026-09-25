@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 9 |
+| 18 | 10 |
 
 ---
 
@@ -16,11 +16,12 @@
 - [brute force](#brute-force) (5)
 - [dp](#dp) (1)
 - [games](#games) (1)
+- [geometry](#geometry) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (8)
+- [implementation](#implementation) (10)
 - [math](#math) (6)
 - [number theory](#number-theory) (1)
-- [strings](#strings) (3)
+- [strings](#strings) (4)
 
 ---
 
@@ -52,6 +53,12 @@
 |---|---------|------------|----------|
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.py) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -64,6 +71,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/41/A%20-%20Translation/solution.py) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
@@ -72,6 +80,7 @@
 | 540A | [Combination Lock](https://codeforces.com/contest/540/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/540/A%20-%20Combination%20Lock/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/705/A%20-%20Hulk/solution.py) |
+| 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.py) |
 
 ### math
 
@@ -94,6 +103,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/41/A%20-%20Translation/solution.py) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/520/A%20-%20Pangram/solution.py) |
