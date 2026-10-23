@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 10 |
+| 19 | 11 |
 
 ---
 
@@ -14,10 +14,11 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (5)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (10)
 - [math](#math) (6)
 - [number theory](#number-theory) (1)
@@ -40,6 +41,12 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/479/A%20-%20Expression/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2268A | [K Is Important](https://codeforces.com/contest/2268/problem/A) | 1200 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/2268/A%20-%20K%20Is%20Important/solution.py) |
 
 ### dp
 
@@ -66,6 +73,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/50/A%20-%20Domino%20piling/solution.py) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.py) |
+| 2268A | [K Is Important](https://codeforces.com/contest/2268/problem/A) | 1200 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/2268/A%20-%20K%20Is%20Important/solution.py) |
 
 ### implementation
 
